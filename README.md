@@ -19,6 +19,7 @@ MVC / MVVM / MVI architectures, design patterns short-term goals to be a cloud a
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
 
 ## Get in touch
+- Linkedin: https://www.linkedin.com/in/adrianhorizon/
 - Twitter: https://twitter.com/adrianhorizon
 - Personal site: https://adriancaminos.me/
 - IG: https://instagram.com/adriancaminos
