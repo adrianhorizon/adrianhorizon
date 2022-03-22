@@ -1,5 +1,5 @@
-# Adrian Camilo Caminos #Developer
-Full Stack Developer
+# Adrian Camilo Caminos #Devops
+Devops (SRE)
 ongoing training as a cloud architect, passionate about software, the arts of games, the platzi blog, tools and platforms that live on the fine line between technology.
 
 I have created websites, web applications, mobile applications, reactive programming, RESTful APIs, single page applications and custom content management systems.
