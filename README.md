@@ -1,25 +1,37 @@
-# Adrian Camilo Caminos #Devops
-Devops Lead (SRE)
-ongoing training as a cloud architect, passionate about software, the arts of games, the platzi blog, tools and platforms that live on the fine line between technology.
 
-I have created websites, web applications, mobile applications, reactive programming, RESTful APIs, single page applications and custom content management systems.
+### Hi 👋, I'm Adrian Caminos
 
-I have been on the front-end and back-end of various companies, startups and agencies that create products for the web.
+#### A passionate Devops Lead
 
-MVC / MVVM / MVI architectures, design patterns short-term goals to be a cloud architect in the medium term go to san fransisco and found my startup with Ycombinator
+- 🌱 I’m currently learning **Secops.**
+- 💬 Ask me about **Python, React, javascript, html5 and Terraform.**
+- ⚡ Fun fact: **I've only worked on private projects 🤔.**
 
-## My values
-💖 Safety and trust<br>
-🌟 Expression as authentic self<br>
-🍏 Beginner's mindset and curiosity<br>
-🙌 Shared norms<br>
-🚀 Elevate the underrepresented
+## About me
 
-## How I work
-My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
+<p>
+  <img src="https://komarev.com/ghpvc/?username=bvelastegui&label=Profile+views&style=flat-square" alt="adrianhorizon" />
+  <a href="https://twitter.com/adrianhorizon" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/adrianhorizon?style=flat-square&color=blue" alt="adrianhorizon" />
+  </a> 
+</p>
 
-## Get in touch
-- Linkedin: https://www.linkedin.com/in/adrianhorizon/
-- Twitter: https://twitter.com/adrianhorizon
-- Personal site: https://adriancaminos.me/
-- IG: https://instagram.com/adriancaminos
+```yaml
+version: 1.0
+code:
+  - name: Devops
+    tools: [ "Terraform", "Ansible", "AWS", "Azure", "Docker", "Kubernetes", "CI/CD" ]
+  - name: DB
+    tools: [ "DynamoDb", "PostgreSQL", "DocumentDb" ]
+  - name: Javascript
+    tools: [ "React.js", "Node.js", "React Native", "Angular"]
+  - name: Python
+    version: 3
+  - name: CSS
+    tools: [ "Chakra ui", "Tailwind"]
+links:
+  linkedin: "https://www.linkedin.com/in/adrianhorizon"
+  twitter: "https://twitter.com/adrianhorizon"
+```
+
+![](https://hit.yhype.me/github/profile?user_id=10576007)
